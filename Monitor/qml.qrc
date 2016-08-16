@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/ListItems">
+        <file>ListItems/BaseListItem.qml</file>
+        <file>ListItems/Divider.qml</file>
+        <file>ListItems/SectionHeader.qml</file>
+        <file>ListItems/Standard.qml</file>
+        <file>ListItems/Subheader.qml</file>
+        <file>ListItems/Subtitled.qml</file>
+        <file>ListItems/ThinDivider.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>Images/arrow_back.svg</file>
+        <file>Images/clear.svg</file>
+        <file>Images/clear_all.svg</file>
+        <file>Images/code.svg</file>
+        <file>Images/expand_more.svg</file>
+        <file>Images/navigate_before.svg</file>
+        <file>Images/refresh.svg</file>
+        <file>Images/settings.svg</file>
+        <file>Images/sync.svg</file>
+        <file>Images/testtx.png</file>
+        <file>Images/alarm.svg</file>
+        <file>Images/exit_to_app.svg</file>
+        <file>Images/info.svg</file>
+        <file>Images/error.svg</file>
+        <file>Images/server.svg</file>
+        <file>Images/person.svg</file>
+        <file>Images/mobile.svg</file>
+        <file>Images/github.svg</file>
+        <file>Images/delete.svg</file>
+        <file>Images/label.svg</file>
+        <file>Images/close.svg</file>
+        <file>Images/done.svg</file>
+        <file>Images/event_note.svg</file>
+        <file>Images/computer.svg</file>
+        <file>Images/access_time.svg</file>
+        <file>Images/details.svg</file>
+        <file>Images/warning.svg</file>
+        <file>Images/navigate_next.svg</file>
+    </qresource>
+    <qresource prefix="/Pages">
+        <file>Pages/LoginPage.qml</file>
+        <file>Pages/MainPage.qml</file>
+        <file>Pages/SettingsPage.qml</file>
+        <file>Pages/DeveloperPage.qml</file>
+        <file>Pages/DetailPage.qml</file>
+    </qresource>
+    <qresource prefix="/Components">
+        <file>Components/BottomBar.qml</file>
+        <file>Components/CircleImage.qml</file>
+        <file>Components/CircleMask.qml</file>
+        <file>Components/Icon.qml</file>
+        <file>Components/IconButton.qml</file>
+        <file>Components/Ink.qml</file>
+        <file>Components/Object.qml</file>
+        <file>Components/Snackbar.qml</file>
+        <file>Components/TabButtonTool.qml</file>
+        <file>Components/TabTool.qml</file>
+        <file>Components/TopBar.qml</file>
+        <file>Components/View.qml</file>
+        <file>Components/DigestContext.qml</file>
+    </qresource>
+</RCC>
